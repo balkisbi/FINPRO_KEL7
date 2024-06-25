@@ -1,4 +1,5 @@
 # Dibimbing - Kampus Merdeka - Final Project Template
+GitHub Template : https://github.com/thosangs/dibimbing_km_final_project
 
 ## How to
 - Since our goal is to minimize our resource usage, we will use free cloud databases on [Neon](https://neon.tech/). Once we create a database in it, get the connection string and put it in variable `DW_POSTGRES_URI` at `.env`
